@@ -1,51 +1,48 @@
-# bot-trader
-# Sistema de Robô de Trading Automatizado – Python & Binance API
+Automated Trading Bot System – Python & Binance API
+This repository aims to centralize the collaborative development of an automated trading bot using Python and integration with the Binance API.
 
-Este repositório tem como objetivo centralizar o desenvolvimento colaborativo de um **robô de trading automatizado** utilizando **Python** e integração com a **API da Binance**.
+Our focus is on building a modular, robust, and extensible system that allows for:
 
-Nosso foco está na construção de um sistema modular, robusto e extensível que permite:
-- Análise de dados históricos,
-- Backtesting de estratégias,
-- Execução automatizada de ordens,
-- Visualização interativa de métricas,
-- Operações com ativos digitais no mercado **Spot** e **Futures**.
+Historical data analysis
 
----
+Strategy backtesting
 
-## 📌 Objetivos
+Automated order execution
 
-- Desenvolver e validar estratégias quantitativas de trading
-- Criar um framework de backtest com dados históricos da Binance
-- Simular operações via **paper trading**
-- Executar ordens reais com controle de risco via **API REST**
-- Implementar uma plataforma visual para monitoramento
-- Promover aprendizado técnico e colaborativo entre os desenvolvedores
+Interactive metric visualization
 
----
+Operations with digital assets in the Spot and Futures markets
 
-## 🧰 Tecnologias Utilizadas
+📌 Objectives
+Develop and validate quantitative trading strategies
 
-| Tecnologia             | Finalidade                                         |
-|------------------------|---------------------------------------------------|
-| **Python**             | Lógica principal e integração com APIs            |
-| **Binance REST API**   | Coleta de dados de mercado e execução de ordens   |
-| **Pandas / NumPy**     | Manipulação e análise de dados financeiros        |
-| **Backtrader**         | Framework de backtesting e simulação              |
-| **Matplotlib / Plotly**| Visualização de candles, sinais e indicadores     |
-| **Streamlit**          | Interface web interativa para dashboards          |
-| **python-dotenv**      | Gerenciamento seguro de variáveis de ambiente     |
-| **pytest**             | Testes unitários e validação das funcionalidades  |
+Create a backtesting framework with historical data from Binance
 
----
+Simulate operations via paper trading
 
-## 🚧 Status do Projeto
+Execute real orders with risk control via WEBSOCKET
 
-> **Fase atual:** Estruturação inicial e desenvolvimento dos módulos base  
-> **Andamento:** Importação de dados históricos, setup de ambiente de backtest, primeiros algoritmos
+Implement a visual platform for monitoring
 
-Contribuições são bem-vindas. Veja a seção **Como contribuir** abaixo.
+Promote technical and collaborative learning among developers
 
----
+🧰 Technologies Used
+Technology	Purpose
+Python	Main logic and API integration
+Binance WEBSOCKET	Market data collection and order execution
+Pandas / NumPy	Financial data manipulation and analysis
+Backtrader	Backtesting and simulation framework
+Matplotlib / Plotly	Visualization of candles, signals, and indicators
+Streamlit	Interactive web interface for dashboards
+python-dotenv	Secure management of environment variables
+pytest	Unit tests and functionality validation
 
-## 📁 Estrutura do Projeto (inicial)
+Exportar para as Planilhas
+🚧 Project Status
+Current Phase: Initial structuring and development of core modules
 
+Progress: Historical data import, backtest environment setup, first algorithms
+
+Contributions are welcome. See the How to Contribute section below.
+
+📁 Project Structure (initial)
