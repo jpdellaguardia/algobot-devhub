@@ -1,0 +1,7 @@
+| Strategy           | Ideal Timeframes  | Avoid                      |
+|--------------------|-------------------|-----------------------------|
+| SMA/EMA Cross      | 4h, 1D            | 1m, 5m (too much noise)     |
+| RSI                | 15m, 1h, 1D       | 1m, 5m                      |
+| MACD               | 1h, 4h, 1D        | 1m, 5m (delayed signals)    |
+| Bollinger Bands    | 15m, 1h           | 1m, 1D                      |
+| Breakout Strategy  | 1h, 4h            | 1m without confirmation     |
