@@ -12,3 +12,5 @@ df = sma_cross.generate_signals(df)
 final_balance, operations = backtest(df)
 
 print(f"💰 Resultado final: ${final_balance:.2f}")
+
+#yolo

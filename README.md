@@ -259,4 +259,4 @@ This project is open source. Please check the LICENSE file for details.
 
 ---
 
-**Built with ❤️ for the algorithmic trading community**
+**Built with ❤️ for  the algorithmic trading community**
