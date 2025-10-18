@@ -48,7 +48,7 @@
 ### 1. **Setup Environment**
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone <https://github.com/jpdellaguardia/algobot-devhub.git>
 cd algobot-devhub-main
 
 # Install basic dependencies
